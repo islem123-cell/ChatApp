@@ -1,15 +1,10 @@
 # Chat App using React Native Expo and Firebase
 
-
-- See a video tutorial showing how to clone this repository 👉🏼 [https://www.youtube.com/watch?v=iHrTQDHq1WI&t=385s](https://www.youtube.com/watch?v=iHrTQDHq1WI&t=385s)
-
-- Check out the Tutorial 👉🏼 [https://www.youtube.com/watch?v=B6bKBiljKxU&t=323s](https://www.youtube.com/watch?v=B6bKBiljKxU&t=323s)
-
 ## How to clone
 
 Clone the repo
 ```
-git clone https://github.com/betomoedano/ChatApp.git
+https://github.com/islem123-cell/ChatApp.git
 ```
 
 cd into the just created project and install dependencies with yarn
